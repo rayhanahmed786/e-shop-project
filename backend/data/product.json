@@ -1,0 +1,236 @@
+[
+  {
+    "name" : "SanDisk ultra 128GB SDXC UHS-I Memory Card up to BOMB",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standa",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/sandisk",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991297/ShopIT/sandisk.jpg"
+      }],
+
+    "category":"Electronics",
+    "seller": "Ebay",
+    "stock"  : 50,
+    "numOfReviews": 32,
+    "reviews": [5]
+
+},
+  {
+  "name" : "Canon EOS M50 Mirrorless Vlogging Camera Kit with EF-M 15-45mm Lens",
+  "price" : "45.89",
+  "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+  "ratings" : 4.4,
+  "images" : [
+    {
+      "public_id": "ShopIT/eos-r5-canon",
+      "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991271/ShopIT/eos-r5-canon.jpg"
+    }],
+
+  "category":"Camera",
+  "seller": "Ebay",
+  "stock"  : 40,
+  "numOfReviews": 30,
+  "reviews": []
+
+},
+  {
+    "name" : "ThinkPad T520 · Premiere performance and ultraportability",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/laptop-timkpad-t520_ufaawn",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1621223666/ShopIT/laptop-timkpad-t520_ufaawn.jpg"
+      }],
+
+    "category":"Laptops",
+    "seller": "Ebay",
+    "stock"  : 80,
+    "numOfReviews": 20,
+    "reviews": []
+
+  },
+  {
+    "name" : "TP Link TL-WR840N 300 Mbps Firewall Wi-Fi Router",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/webdam.web.372.372_u0gcjt",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991191/ShopIT/webdam.web.372.372_u0gcjt.jpg"
+      }],
+
+    "category":"Accessories",
+    "seller": "Ebay",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  },
+  {
+    "name" : "McDonald's: Burgers, Fries & More. Quality Ingredients",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "\nShopIT/love-of-food-1_oneoj6",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991354/ShopIT/love-of-food-1_oneoj6.png"
+      },
+      {
+        "public_id": "ShopIT/chorizo-mozarella",
+         "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991348/ShopIT/chorizo-mozarella.jpg"
+      },
+      {
+        "public_id": "ShopIT/pizza-beer-1",
+          "url": "https://res.cloudinary.com/noddybird/image/upload/v1617991344/ShopIT/pizza-beer-1.jpg"
+             }
+    ],
+
+    "category":"Food",
+    "seller": "Ebay",
+    "stock"  : 37,
+    "numOfReviews": 63,
+    "reviews": []
+
+  },
+
+  {
+    "name" : "Nike Shoe ",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/nike_ufvn3b",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619211944/ShopIT/nike_ufvn3b.jpg"
+      }],
+
+    "category":"Shoes",
+    "seller": "Ebay",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "MackBook Pro ",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/mack-book_s9vhid",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619211943/ShopIT/mack-book_s9vhid.jpg"
+      }],
+
+    "category":"Laptops",
+    "seller": "Amazon",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "Iphone 12 Pro(2021) ",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/iphone12_vhyk4q",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619211940/ShopIT/iphone12_vhyk4q.jpg"
+      }],
+
+    "category":"Electronics",
+    "seller": "Amazon",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "LED Smart TV",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/iphone12_vhyk4q",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619211940/ShopIT/iphone12_vhyk4q.jpg"
+      }],
+
+    "category":"Electronics",
+    "seller": "Amazon",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "Books",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/Book_pkmfiq",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619213639/ShopIT/Book_pkmfiq.jpg"
+      }],
+
+    "category":"Books",
+    "seller": "aliexpress",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "Headphone dx 90",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/headphone_edoxlc",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619211940/ShopIT/headphone_edoxlc.jpg"
+      }],
+
+    "category":"Electronics",
+    "seller": "amazon",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+,
+  {
+    "name" : "Sports items",
+    "price" : "45.89",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "ratings" : 4.5,
+    "images" : [
+      {
+        "public_id": "ShopIT/sports_hc2eut",
+        "url": "https://res.cloudinary.com/noddybird/image/upload/v1619213637/ShopIT/sports_hc2eut.jpg"
+      }],
+
+    "category":"Sports",
+    "seller": "aliexpress",
+    "stock"  : 43,
+    "numOfReviews": 29,
+    "reviews": []
+
+  }
+]
+
+
