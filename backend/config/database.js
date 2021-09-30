@@ -12,3 +12,5 @@ const connectDatabase= () => {
 
 }
 module.exports=connectDatabase;
+
+//DB_LOCAL_URI= mongodb://localhost:27017/ShopIT
